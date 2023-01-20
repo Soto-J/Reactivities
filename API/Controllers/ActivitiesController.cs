@@ -10,7 +10,7 @@ namespace API.Controllers
     public class ActivitiesController : ControllerBase
     {
         private readonly DataContext _context;
-
+        
         public ActivitiesController(DataContext context)
         {
             _context = context;
