@@ -3,7 +3,6 @@ import axios from "axios";
 import "./App.css";
 import { Header } from "semantic-ui-react";
 import List from "semantic-ui-react/dist/commonjs/elements/List";
-import ListContent from "semantic-ui-react/dist/commonjs/elements/List/ListContent";
 import Button from "semantic-ui-react/dist/commonjs/elements/Button";
 
 function App() {
